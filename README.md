@@ -12,7 +12,7 @@
 
 [studuj.bioinformatiku.cz](https://studuj.bioinformatiku.cz/)
 
-**Stupně studia:** B + M + D
+**Stupně studia:** ![Bakalářský](b.png)![Magisterský](m.png)![Doktorský](d.png)
 
 
 ### Bioinformatika v biochemii a mikrobiologii
@@ -21,7 +21,7 @@
 
 [bioinformatika.eu](https://www.bioinformatika.eu/)
 
-**Stupně studia:** M
+**Stupně studia:** ![Magisterský](m.png)
 
 ---
 
@@ -33,7 +33,7 @@
 
 [lékařská elektronika a bioinformatika](https://fel.cvut.cz/cs/studijni-programy/bio-lekarska-elektronika-a-bioinformatika)
 
-**Stupně studia:** B + M + D
+**Stupně studia:** ![Bakalářský](b.png)![Magisterský](m.png)![Doktorský](d.png)
 
 ---
 
@@ -45,7 +45,7 @@
 
 - [Bioinformatika](https://bioinformatika.mff.cuni.cz/)
 
-**Stupně studia:** B + M + D
+**Stupně studia:** ![Bakalářský](b.png)![Magisterský](m.png)![Doktorský](d.png)
 
 
 ### Modelování chemických vlastností nano- a biostruktur
@@ -54,7 +54,7 @@
 
 [Modelování chemických vlastností nano- a biostruktur](https://natur.cuni.cz/uchazeci/studijni-programy/doktorske-studium/chemie/modelovani-chemickych-vlastnosti-nano-a-biostruktur)
 
-**Stupně studia:** D
+**Stupně studia:** ![Doktorský](d.png)
 
 
 ### Biomedicínská informatika
@@ -63,7 +63,7 @@
 
 [Biomedicínská informatika](https://www.lf2.cuni.cz/phd/programy/biomedicinska-informatika)
 
-**Stupně studia:** D
+**Stupně studia:** ![Doktorský](d.png)
 
 ---
 
@@ -75,7 +75,7 @@
 
 [Integrative Biology](https://www.prf.jcu.cz/en/admissions/degree-programmes/study-programme?programme=3165)
 
-**Stupně studia:** D
+**Stupně studia:** ![Doktorský](d.png)
 
 ---
 
@@ -87,7 +87,7 @@
 
 [bioinformatika.muni.cz](https://bioinformatika.muni.cz/)
 
-**Stupně studia:** B + M + D
+**Stupně studia:** ![Bakalářský](b.png)![Magisterský](m.png)![Doktorský](d.png)
 
 ---
 
@@ -101,7 +101,7 @@
 - [Navazující magisterský program](https://www.vut.cz/studenti/programy/program/9783)
 - [Doktorský program](https://www.vut.cz/studenti/programy/program/9806)
 
-**Stupně studia:** B + M + D
+**Stupně studia:** ![Bakalářský](b.png)![Magisterský](m.png)![Doktorský](d.png)
 
 ---
 
@@ -113,14 +113,14 @@
 
 [Bioinformatika – PřF UPOL](https://www.prf.upol.cz/katedra-biochemie/pro-zajemce-o-studium/obor-bioinformatika/)
 
-**Stupně studia:** B + M
+**Stupně studia:** ![Bakalářský](b.png)![Magisterský](m.png)
 
 
 ### Bioinformatika a výpočetní biologie
 
 **Fakulta:** Lékařská fakulta
 
-**Stupně studia:** D
+**Stupně studia:** ![Doktorský](d.png)
 
 ---
 
@@ -132,7 +132,7 @@
 
 [Bioinformatika a výpočetní biologie](https://www.vsb.cz/e-vyuka/cs/programme?id=835)
 
-**Stupně studia:** D
+**Stupně studia:** ![Doktorský](d.png)
 
 ---
 
