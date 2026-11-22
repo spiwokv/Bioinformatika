@@ -14,6 +14,7 @@
 
 **Stupně studia:** B + M + D
 
+
 ### Bioinformatika v biochemii a mikrobiologii
 
 **Fakulta:** Fakulta potravinářské a biochemické technologie
@@ -28,7 +29,7 @@
 
 ### Lékařská elektronika a bioinformatika
 
-**Fakulta:** Fakulta elektrotechnická
+**Fakulta:** Fakulta informačních technologií
 
 [lékařská elektronika a bioinformatika](https://fel.cvut.cz/cs/studijni-programy/bio-lekarska-elektronika-a-bioinformatika)
 
@@ -40,12 +41,12 @@
 
 ### Bioinformatika, Bioinformatika a výpočetní biologie
 
-**Fakulta:** Přírodovědecká fakulta a Matematicko-fyzikální fakulta
+**Fakulta:** Přírodovědecká a Matematicko-fyzikální fakulta
 
-- [Bioinformatika – MFF UK](https://bioinformatika.mff.cuni.cz/)
-- [Bioinformatika – PřF UK](https://natur.cuni.cz/uchazeci/studijni-programy/bakalarske-studium/biologie/bioinformatika)
+- [Bioinformatika](https://bioinformatika.mff.cuni.cz/)
 
 **Stupně studia:** B + M + D
+
 
 ### Modelování chemických vlastností nano- a biostruktur
 
@@ -54,6 +55,7 @@
 [Modelování chemických vlastností nano- a biostruktur](https://natur.cuni.cz/uchazeci/studijni-programy/doktorske-studium/chemie/modelovani-chemickych-vlastnosti-nano-a-biostruktur)
 
 **Stupně studia:** D
+
 
 ### Biomedicínská informatika
 
@@ -112,6 +114,7 @@
 [Bioinformatika – PřF UPOL](https://www.prf.upol.cz/katedra-biochemie/pro-zajemce-o-studium/obor-bioinformatika/)
 
 **Stupně studia:** B + M
+
 
 ### Bioinformatika a výpočetní biologie
 
